@@ -25,7 +25,7 @@ setup(
     description="Python package for Pointnet2 operations that can run on GPU, orgiginal author: Erik Wijmans",  
     long_description=open(osp.join(this_dir, "README.md")).read(),  
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pointnet2_ops_lib",
+    url="https://github.com/nielsRocholl/fps-cuda",
     packages=find_packages(),
     install_requires=["torch>=1.9"], 
     ext_modules=[

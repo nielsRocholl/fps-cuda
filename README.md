@@ -6,7 +6,7 @@ For easy incorporation into other project, I changed the setup.py such that we c
 
 You can now install this package through:
 ```
-pip install git+https://github.com/nielsRocholl/knn-cuda/.git
+pip install git+https://github.com/nielsRocholl/fps-cuda.git
 ```
 
 After installing, you can import the function like:
