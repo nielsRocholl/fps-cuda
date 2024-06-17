@@ -1,8 +1,8 @@
 ### FPS cuda implmentation
 
-Cuda implementation of farthers point sampling, can be used on the GPU. This code is originally from [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch) written by Erik Wijmans. 
+Cuda implementation of farthest point sampling, can be used on the GPU. This code is originally from [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch) written by Erik Wijmans. 
 
-For easy incorporation into other project, I changed the setup.py such that we can create a python package that can be installed through pip. 
+For easy incorporation into other projects, I changed the setup.py such that we can create a python package that can be installed through pip. 
 
 You can now install this package through:
 ```
